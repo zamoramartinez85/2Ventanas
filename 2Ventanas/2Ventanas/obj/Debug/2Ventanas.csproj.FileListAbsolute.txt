@@ -1,0 +1,16 @@
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\bin\Debug\2Ventanas.exe.config
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\bin\Debug\2Ventanas.exe
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\bin\Debug\2Ventanas.pdb
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\2Ventanas.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\MainWindow.g.cs
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\Ventana2.g.cs
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\App.g.cs
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\2Ventanas_MarkupCompile.cache
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\2Ventanas_MarkupCompile.lref
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\MainWindow.baml
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\Ventana2.baml
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\2Ventanas.g.resources
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\_2Ventanas.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\2Ventanas.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\2Ventanas.exe
+c:\users\david\documents\visual studio 2015\Projects\2Ventanas\2Ventanas\obj\Debug\2Ventanas.pdb
